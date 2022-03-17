@@ -1,0 +1,6 @@
+.familyCard .familyContent, .topContent a,.bg-first,.section-info, .btn-red, .btn-tab.active, .btn-tab:hover{background-color: #9B167D !important;}
+.active, .navbar-light .navbar-nav .nav-link:hover,.familyCard .familyContent ul li a,.form-control::placeholder, .friendCard ul li a,.formSub button , .contactIcon, .counterItem li:first-child span,.friendCard ul li,.friendCard h3,.aboutContent h2{color:#9b167d !important}
+.form-control:focus{border-color:#9B167D !important}
+.btn-red:hover, .btn-tab{color:#9B167D;box-shadow:2px 2px 5px #9B167D99}
+.btn-red, .btn-tab{box-shadow:2px 2px 5px #9B167D99}
+.nav-link.btn-lg.btn-tab.active{color:white !important}

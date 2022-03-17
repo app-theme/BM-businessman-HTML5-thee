@@ -1,0 +1,25 @@
+
+@media  (max-width: 800px)
+{
+	.topContent h1{font-size:30px;}	
+	.aboutImg{height:300px;}
+	.friendCard img{width:200px;height:200px;}
+}
+@media  (max-width: 600px)
+{
+	.topContent h1{font-size:20px;}	
+	.aboutImg{height:200px; !important}
+	.friendCard img{width:200px;height:200px;}
+	.section-family ul li:not(:nth-child(1)){margin-right:0px;margin-left:0px;margin-top:10px}
+	.section-family ul{flex-direction:column}
+	.familyCard {margin-bottom:20px;}
+	.familyCard .familyContent{opacity:1}
+	.familyCard .familyContent ul li a{display:inline}
+	.familyCard .familyContent ul {flex-direction:row;}
+	.section-family ul li {margin:0px 5px !important;}
+	.friendCard{margin-top:150px;}
+	#topSection > .container-fluid > .row{background-attachment:scroll; height:300px;}
+	.topContent a{font-size:1rem !important;}
+	.topContentLeft{margin-left:10%}
+	
+} 
